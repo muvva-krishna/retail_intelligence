@@ -358,7 +358,7 @@ This architecture can be extended for:
 
 ---
 
-# 🏆 Why This Is Resume-Worthy
+# 🏆
 
 This project demonstrates:
 
