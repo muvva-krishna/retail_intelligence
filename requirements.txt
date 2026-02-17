@@ -1,0 +1,7 @@
+pandas
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+chromadb
+google-generativeai
+python-dotenv
